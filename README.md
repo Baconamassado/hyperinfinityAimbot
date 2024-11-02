@@ -2,4 +2,4 @@
 
 # Script by: Bacon
 
-**Loadstring**: Soon
+**Loadstring**: loadstring(game:HttpGet("https://raw.githubusercontent.com/Baconamassado/hyperinfinityAimbot/refs/heads/main/hyperinfinity.lua"))()
