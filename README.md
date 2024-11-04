@@ -4,4 +4,5 @@
 
 **Loadstring**: loadstring(game:HttpGet("https://raw.githubusercontent.com/Baconamassado/hyperinfinityAimbot/refs/heads/main/hyperinfinity.lua"))()
 
-__**Hyper infinity, an universal aimbot.**__
+
+__**Hyper infinity BETA ♾️ an universal aimbot.**__
