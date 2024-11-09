@@ -6,3 +6,5 @@
 
 
 __**Hyper infinity BETA ♾️ an universal aimbot.**__
+
+OBS: **Not working** at the moment, **working** to fix it.
