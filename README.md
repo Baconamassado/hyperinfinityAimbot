@@ -1,13 +1,31 @@
-# UI library by: CAT_SUS - Nothing lib
+Aqui está uma versão mais organizada e estilosa do seu `README.md`:
 
-# Script by: Bacon
+```markdown
+# UI Library by: **CAT_SUS** - Nothing lib
 
-**Loadstring**: loadstring(game:HttpGet("https://raw.githubusercontent.com/Baconamassado/hyperinfinityAimbot/refs/heads/main/hyperinfinity.lua"))()
+## Script by: **Bacon**
 
-__**Hyper infinity BETA ♾️ an universal aimbot.**__
+---
 
-Notes:
+### **Loadstring:**
 
-Please do not modify the loadstring. The script will **crash** your roblox **immediately**.
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Baconamassado/hyperinfinityAimbot/refs/heads/main/hyperinfinity.lua"))()
+```
 
-**Not working** at the moment, **working** to fix it.
+---
+
+## **Hyper Infinity BETA ♾️ - A Universal Aimbot**
+
+---
+
+### **Notes:**
+
+- **Do not modify the loadstring**: Modifying the loadstring will cause the script to **crash** your Roblox **immediately**.
+- The script is currently **not working**. I'm actively working to fix it and bring it back online.
+
+---
+
+### **Important:**
+- **BETA Version**: This is a beta version of the script, and may not function as expected.
+- Please be patient as updates and fixes are in progress.
