@@ -23,7 +23,6 @@ Hyper Infinity is a **BETA** version universal aimbot designed to enhance your g
 ### **Important Notes:**
 
 - **Do not modify the loadstring**: Any modifications to the loadstring will cause the script to **crash** your Roblox **immediately**.
-- The script is currently **not working** as intended, but I am actively working on fixing it.
 
 ---
 
