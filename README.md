@@ -28,7 +28,7 @@ Hyper Infinity is a **BETA** version universal aimbot designed to enhance your g
 
 ## **Features:**
 
-- **Aimbot**: Provides a 7.6/10 aimbot performance. **(Goal: To make it a 10/10! Remember, this is still in beta.)**
+- **Aimbot**: Provides a 8.1/10 aimbot performance. **(Goal: To make it a 10/10! Remember, this is still in beta.)**
 - **Aimbot Range**: Adjustable range slider from **100 to 500** for the aimbot's targeting range.
 - **Aimpart**: Choose which specific body part the aimbot will target (e.g., head, torso).
 - **ESP**: An **8.1/10** ESP feature for visual enhancements.
