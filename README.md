@@ -15,6 +15,6 @@ __**Hyper infinity BETA ♾️ an universal aimbot.**__
 
 Notes:
 
-Please do not modify the loadstring. The script will crash your roblox immediately.
+Please do not modify the loadstring. The script will **crash** your roblox **immediately**.
 
 **Not working** at the moment, **working** to fix it.
