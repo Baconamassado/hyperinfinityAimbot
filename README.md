@@ -34,7 +34,8 @@ Hyper Infinity is a **BETA** version universal aimbot designed to enhance your g
 - **Focus Lock**: Beta feature (currently not working).
 - **Universal Tab**: Contains various universal functions for different actions and customization.
 - **Aimbot Type**: Choose whether you want the aimbot to work based on **Camera** or **Mouse** movement.
-- Prediction, sticky aim and smooth will be added in the next update.
+- And more!
+- Prediction, fly correction and fov system in the next updates.
 
 ---
 
