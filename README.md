@@ -15,34 +15,44 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Baconamassado/hyperin
 
 ## **Hyper Infinity BETA ♾️ - A Universal Aimbot**
 
----
-
-### **Notes:**
-
-- **Do not modify the loadstring**: Modifying the loadstring will cause the script to **crash** your Roblox **immediately**.
-- The script is currently **not working**. I am actively working to fix it and bring it back online.
+### **Overview:**
+Hyper Infinity is a **BETA** version universal aimbot designed to enhance your gameplay experience. This script is **actively being worked on** and may not function perfectly yet. Please be patient as improvements and fixes are in progress.
 
 ---
 
-## **Functions:**
+### **Important Notes:**
 
-- **Aimbot**: A 7.6/10 aimbot performance.
-- **Aimbot Range**: Adjustable range slider from 100 to 500 for aimbot range.
-- **Aimpart**: Choose which part the aimbot will aim at.
-- **ESP**: A 8.1/10 ESP feature.
+- **Do not modify the loadstring**: Any modifications to the loadstring will cause the script to **crash** your Roblox **immediately**.
+- The script is currently **not working** as intended, but I am actively working on fixing it.
+
+---
+
+## **Features:**
+
+- **Aimbot**: Provides a 7.6/10 aimbot performance. **(Goal: To make it a 10/10! Remember, this is still in beta.)**
+- **Aimbot Range**: Adjustable range slider from **100 to 500** for the aimbot's targeting range.
+- **Aimpart**: Choose which specific body part the aimbot will target (e.g., head, torso).
+- **ESP**: An **8.1/10** ESP feature for visual enhancements.
 - **Focus Lock**: Beta feature (currently not working).
-- **Universal Tab**: Includes universal functions for various actions.
+- **Universal Tab**: Contains various universal functions for different actions and customization.
+- **Aimbot Type**: Choose whether you want the aimbot to work based on **Camera** or **Mouse** movement.
 
 ---
 
-### **Important:**
+### **Important Reminders:**
 
-- **BETA Version**: This is a beta version of the script and may not function as expected.
-- **Be patient**: Updates and fixes are in progress, and your understanding is appreciated.
+- **BETA Version**: This script is in **BETA** and may not function as expected. Please report any issues you encounter.
+- **Patience**: Updates and fixes are ongoing. Your patience is greatly appreciated during this process.
 
 ---
 
 ## **Disclaimer:**
 
-This script is for **educational purposes only**. Use at your own risk. The author is not responsible for any issues or damages caused by this script.
+This script is intended for **educational purposes only**. By using this script, you agree to do so at your own risk. The author is not responsible for any issues, damage, or consequences that may arise from using this script.
+
+---
+
+### **Contact:**
+
+For any questions or feedback, feel free to reach out via [Discord profile](https://discord.com/users/1130485414961098762).
 ```
