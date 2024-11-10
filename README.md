@@ -35,7 +35,7 @@ Hyper Infinity is a **BETA** version universal aimbot designed to enhance your g
 - **Aimbot Type**: Choose whether you want the aimbot to work based on **Camera** or **Mouse** movement.
 - **Sticky aim**: Greatly improve the aimbot with this function! (BETA)
 - And much more!
-- Prediction, fly correction and fov system in the next updates.
+- Prediction, fly correction and fov system in the next updates. (probably the fov system will not be implemented because I don't know how to do XD)
 
 ---
 
