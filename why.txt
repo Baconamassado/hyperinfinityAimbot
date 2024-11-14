@@ -1,0 +1,1 @@
+Do not take up too many lines by putting the entire alphabet, i think it would be better to put the entire alphabet directly into the code via a one-line list, LOL
