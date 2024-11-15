@@ -57,7 +57,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Baconamassado/hyperin
 ### **WARNINGS:**
 
 - **Warn.txt**: When the script is executed, the `Warn.txt` file may generate a warning about potential updates or issues from the script.
-  
+- **Inject.lua**: will run code to give warnings to the user without having to directly update the script
+
 ---
 
 ## **Disclaimer:**
