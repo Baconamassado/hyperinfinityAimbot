@@ -1,5 +1,3 @@
-Here's the improved version in English:
-
 ---
 
 # **UI Library by: CAT_SUS - Nothing Lib**
