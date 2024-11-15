@@ -1,5 +1,5 @@
 local function sendnot(title, desc, duration, icon)
-    if icon == 'not' then 
+    if icon == 'not' then -- If not then the icon will be the default icon
         Notification.new({
             Title = title,
             Description = desc,
