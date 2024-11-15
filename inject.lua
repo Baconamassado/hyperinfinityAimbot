@@ -1,3 +1,6 @@
+local NothingLibrary = loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/3345-c-a-t-s-u-s/NOTHING/main/source.lua'))()
+local Notification = NothingLibrary.Notification()
+
 local function sendnot(title, desc, duration, icon)
     if icon == 'not' then -- If not then the icon will be the default icon
         Notification.new({
