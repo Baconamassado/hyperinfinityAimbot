@@ -9,6 +9,8 @@
 ### **Loadstring:**
 
 ```lua
+
+getgenv().owner = "Bacon"
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Baconamassado/hyperinfinityAimbot/refs/heads/main/hyperinfinity.lua"))()
 ```
 
@@ -36,7 +38,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Baconamassado/hyperin
   - **Aimbot Type**: Choose whether the aimbot will work based on **camera movement** or **mouse movement**.
   - **Sticky Aim**: A function to enhance the aimbot by providing a more accurate focus on the target! (BETA)
 - **ESP**: An **8.1/10** ESP feature for visual enhancements.
-  - Displays information about nearby players such as their name, team, and more.
+  - More esp customization soon!
 - **Universal Tab**: Contains universal functions for various actions and customization.
 - **Future Updates**:
   - **Prediction**: Corrects movement prediction and trajectory calculation.
