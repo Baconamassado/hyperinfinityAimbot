@@ -1,6 +1,6 @@
 ---
 
-# **UI Library by: CAT_SUS - Nothing Lib**
+# **UI Library by: CAT_SUS - [Nothing Lib](https://github.com/3345-c-a-t-s-u-s/NOTHING)**
 
 ## **Script by: Bacon**
 
