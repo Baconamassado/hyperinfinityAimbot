@@ -2,7 +2,7 @@ local NothingLibrary = loadstring(game:HttpGetAsync('https://raw.githubuserconte
 local Notification = NothingLibrary.Notification()
 
 if getgenv().owner ~= "Bacon" then
-    while true do end -- Crash skidding people LOL
+    while true do end -- Crash skidding people LOL, It's kind of useless, just to troll
 end
 
 local function sendnot(title, desc, duration, icon)
