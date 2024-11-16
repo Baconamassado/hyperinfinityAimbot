@@ -10,7 +10,6 @@
 
 ```lua
 
-getgenv().owner = "Bacon" -- I wouldn't try to change if I were you
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Baconamassado/hyperinfinityAimbot/refs/heads/main/hyperinfinity.lua"))()
 ```
 
