@@ -1,10 +1,6 @@
 local NothingLibrary = loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/3345-c-a-t-s-u-s/NOTHING/main/source.lua'))()
 local Notification = NothingLibrary.Notification()
 
-if getgenv().owner ~= "Bacon" then
-    while true do end -- Crash skidding people LOL, It's kind of useless, just to troll
-end
-
 local function sendnot(title, desc, duration, icon)
     if icon == 'not' then 
         Notification.new({
